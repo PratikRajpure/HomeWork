@@ -33,7 +33,7 @@ public class ExcepetionEx {
 		 
 		        System.out.println("Entered number is even");}
 		     catch(Exception e) {
-		    	 System.out.println("Entered number is odd");
+		    	 System.out.println("Rest of the code excute");
 		     }
 		  
 	}
